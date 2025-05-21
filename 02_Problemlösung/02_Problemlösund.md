@@ -132,11 +132,25 @@ Anstelle vollständiger Berechnung simuliert MCTS viele **zufällige Spielverlä
 Suchprobleme sind ein zentrales Konzept der KI. Ob Navigation oder Spielstrategie: Durch intelligente Auswahl und Bewertung von Pfaden können auch in großen Räumen effiziente Entscheidungen getroffen werden. Heuristiken, Pruning und Simulation sind dabei entscheidende Werkzeuge.
 
 ---
+🔎 Quellen
 
-## 🔎 Quellen
+* Russell & Norvig (2021): Artificial Intelligence: A Modern Approach. 4th ed., Pearson.
 
-* Russell & Norvig (2021): *Artificial Intelligence: A Modern Approach*
-* GeeksforGeeks (2023): *Search Algorithms in AI*, [https://www.geeksforgeeks.org/search-algorithms-in-ai/](https://www.geeksforgeeks.org/search-algorithms-in-ai/)
-* Wikipedia (2025): *Monte Carlo Tree Search*, [https://de.wikipedia.org/wiki/Monte-Carlo-Tree-Search](https://de.wikipedia.org/wiki/Monte-Carlo-Tree-Search)
-* Eigene Python-Implementierung (A\*-Pfadsuche)
+* GeeksforGeeks (2023): Problem Solving in AI. https://www.geeksforgeeks.org/problem-solving-in-artificial-intelligence/
+
+* Gabler Wirtschaftslexikon (2024): Entscheidungsbaum. https://wirtschaftslexikon.gabler.de/definition/entscheidungsbaum-35225
+
+* ResearchGate (2018): Trajectory of dist-bug algorithm. https://www.researchgate.net/figure/Trajectory-of-dist-bug-algorithm_fig1_324562768
+
+* GeeksforGeeks (2023): Pathfinding Algorithms in AI. https://www.geeksforgeeks.org/search-algorithms-in-ai/
+
+* Computerphile (YouTube): A Pathfinding Algorithm*. https://youtu.be/v-pSdigfwM8?si=0vp3E6KQwufdvdme
+
+* Eigene Implementierung und Beispiele basierend auf KI-Übungsblatt „Wegsuche in Graphen“ (ki_ueb210_Path-2)
+
+* Wikipedia (2025): Monte Carlo Tree Search. https://de.wikipedia.org/wiki/Monte-Carlo-Tree-Search
+
+* Eigene Implementierung des MinMax-Algorithmus in Python zur Anwendung auf TicTacToe (TicTacToe.py)
+
+
 
