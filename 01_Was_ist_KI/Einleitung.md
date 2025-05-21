@@ -43,6 +43,24 @@ Was zu einem bestimmten Zeitpunkt als "intelligent" gilt, **verändert sich mit 
 
 ## 1.2 Arten von KI
 
+Künstliche Intelligenz lässt sich auf mehreren Ebenen klassifizieren – je nach Zielsetzung, Komplexität und Flexibilität des Systems. Eine gängige Unterscheidung erfolgt entlang des Spektrums von „schwacher“ bis „starker“ KI. Technisch differenziert man insbesondere zwischen drei Haupttypen:
+
+**1. Artificial Narrow Intelligence (ANI)**
+
+Die heute existierenden KI-Systeme gehören fast ausschließlich zur Kategorie der schwachen oder spezialisierten KI (ANI). Sie sind darauf ausgelegt, konkrete Aufgaben in eng definierten Anwendungsfeldern zu erfüllen – z. B. Spracherkennung, Bilderkennung, maschinelle Übersetzung oder Produktempfehlungen. Trotz ihrer Leistungsfähigkeit agieren ANI-Systeme immer innerhalb vorgegebener Grenzen und verfügen über kein „Verständnis“ im menschlichen Sinn. Klassische Beispiele sind
+Spamfilter, Chatbots oder Systeme zur medizinischen Bildanalyse.
+
+**2. Artificial General Intelligence (AGI)**
+
+Die sogenannte starke KI bezeichnet eine hypothetische Form künstlicher Intelligenz, die in der Lage wäre, flexibel in verschiedensten Kontexten zu denken, zu lernen und zu handeln – ähnlich einem menschlichen Geist. Eine AGI könnte Wissen aus einem Bereich auf völlig andere übertragen, kreativ neue Lösungen entwickeln und eigene Ziele verfolgen. Der Stand der Forschung ist hier rein experimentell: Es gibt bisher kein
+System, das als AGI anerkannt werden kann.
+
+**3. Artificial Super Intelligence (ASI)**
+
+Ein weiterer theoretischer Schritt über AGI hinaus ist die Superintelligenz – eine Form von KI, die den Menschen in nahezu allen kognitiven Bereichen übertreffen würde. In der Literatur wird sie oft mit Chancen (z. B. wissenschaftliche Durchbrüche) und Risiken (z. B. Kontrollverlust) diskutiert. Technisch ist ASI derzeit rein spekulativ und Gegenstand ethisch-philosophischer Debatten, nicht aber praktischer Entwicklung.
+
+
+
 | Typ                                         | Beschreibung                                                                      | Stand           |
 | ------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
 | **ANI** (*Artificial Narrow Intelligence*)  | Spezialisiert auf eine Aufgabe (z. B. Spracherkennung, Bilderkennung, Chatbots)   | ✅ Realität      |
@@ -57,7 +75,9 @@ Moderne Sprachmodelle wie **ChatGPT** basieren auf der sogenannten **Transformer
 
 GPT steht für „Generative Pretrained Transformer“. Das Modell lernt, Sprachmuster vorherzusagen, indem es riesige Mengen an Textdaten analysiert. Dabei wird keine Bedeutung „verstanden“, sondern **Wahrscheinlichkeiten für das nächste Wort** vorhergesagt.
 
-![image](https://github.com/user-attachments/assets/d496fc24-a5a9-4368-860c-437ed9016358)
+ ![image](https://github.com/user-attachments/assets/d496fc24-a5a9-4368-860c-437ed9016358)
+
+*Abbildung 1: Die GPT-Architektur basiert auf einem Transformer-Modell. Quelle: Jalammar (2020)*
 
 
 ---
@@ -69,6 +89,8 @@ GPT steht für „Generative Pretrained Transformer“. Das Modell lernt, Sprach
 Ein Mensch kommuniziert über ein Terminal mit zwei Gesprächspartnern – einem Menschen und einer Maschine. Kann der Mensch nicht zuverlässig sagen, wer die Maschine ist, gilt der Test als bestanden.
 
 ![image](https://github.com/user-attachments/assets/91854e0b-a4f1-48e0-97a0-88f79c0a1475)
+
+*Abbildung 2: Illustration des Turing-Tests. Quelle: GeeksforGeeks (2023)*
 
 
 ### Ist der Test noch zeitgemäß?
