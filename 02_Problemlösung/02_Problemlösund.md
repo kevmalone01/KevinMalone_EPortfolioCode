@@ -132,7 +132,7 @@ Anstelle vollständiger Berechnung simuliert MCTS viele **zufällige Spielverlä
 Suchprobleme sind ein zentrales Konzept der KI. Ob Navigation oder Spielstrategie: Durch intelligente Auswahl und Bewertung von Pfaden können auch in großen Räumen effiziente Entscheidungen getroffen werden. Heuristiken, Pruning und Simulation sind dabei entscheidende Werkzeuge.
 
 ---
-🔎 Quellen
+## 🔎 Quellen
 
 * Russell & Norvig (2021): Artificial Intelligence: A Modern Approach. 4th ed., Pearson.
 
