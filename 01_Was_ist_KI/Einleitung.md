@@ -55,7 +55,8 @@ Moderne Sprachmodelle wie **ChatGPT** basieren auf der sogenannten **Transformer
 
 GPT steht für „Generative Pretrained Transformer“. Das Modell lernt, Sprachmuster vorherzusagen, indem es riesige Mengen an Textdaten analysiert. Dabei wird keine Bedeutung „verstanden“, sondern **Wahrscheinlichkeiten für das nächste Wort** vorhergesagt.
 
-![Transformer Architektur (GPT)](https://jalammar.github.io/images/gpt2/gpt2-min.png)
+![image](https://github.com/user-attachments/assets/d496fc24-a5a9-4368-860c-437ed9016358)
+
 
 ---
 
@@ -65,7 +66,8 @@ GPT steht für „Generative Pretrained Transformer“. Das Modell lernt, Sprach
 
 Ein Mensch kommuniziert über ein Terminal mit zwei Gesprächspartnern – einem Menschen und einer Maschine. Kann der Mensch nicht zuverlässig sagen, wer die Maschine ist, gilt der Test als bestanden.
 
-![Turing-Test Illustration](https://media.geeksforgeeks.org/wp-content/uploads/20220330141706/TuringTestinAI.png)
+![image](https://github.com/user-attachments/assets/91854e0b-a4f1-48e0-97a0-88f79c0a1475)
+
 
 ### Ist der Test noch zeitgemäß?
 
