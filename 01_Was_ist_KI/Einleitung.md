@@ -2,7 +2,9 @@
 
 Spätestens seit der Veröffentlichung von **ChatGPT im Jahr 2022** ist der Begriff *Künstliche Intelligenz (KI)* stark in den Fokus gerückt. In Medien, Unternehmen und Bildungseinrichtungen wird KI heute als Schlüsseltechnologie diskutiert, die Wirtschaft, Gesundheitswesen und Alltag nachhaltig verändern kann.
 
-Dabei ist die Idee nicht neu: Bereits in den **1950er-Jahren** beschäftigten sich Wissenschaftler mit der Frage, ob Maschinen intelligentes Verhalten zeigen könnten. Damals wie heute steht die Frage im Zentrum: **Wie können wir Maschinen bauen, die „danken“?**
+Dabei ist die Idee nicht neu: Bereits in den **1950er-Jahren** beschäftigten sich Wissenschaftler mit der Frage, ob Maschinen intelligentes Verhalten zeigen könnten. Die technologische Grundlage hat sich seither stetig weiterentwickelt – von symbolischen Systemen über
+maschinelles Lernen bis hin zu heutigen neuronalen Netzen. Doch was genau ist
+Künstliche Intelligenz?
 
 ---
 
