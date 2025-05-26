@@ -133,6 +133,7 @@ Zur Verbesserung des Lernverhaltens kommen häufig zusätzliche Methoden zum Ein
 
 > Backpropagation + geeignete Optimierungsstrategien = Grundlage moderner Deep Learning Systeme
 
+---
 
 ## 6.3 Tiefe neuronale Netze (Deep Neural Networks)
 
@@ -196,6 +197,8 @@ DNNs kommen in vielen Bereichen zum Einsatz:
 ---
 
 > Tiefe neuronale Netze sind heute aus der KI nicht mehr wegzudenken – sie liefern die Grundlage für viele der fortschrittlichsten Technologien unserer Zeit.
+
+---
 
 ## 6.4 Convolutional Neural Networks (CNNs)
 
