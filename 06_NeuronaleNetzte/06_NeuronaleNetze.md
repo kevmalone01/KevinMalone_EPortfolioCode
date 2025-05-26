@@ -89,7 +89,7 @@ Dabei ist η die Lernrate, die steuert, wie stark die Gewichte verändert werden
 
 ![image](https://github.com/user-attachments/assets/7c2fa529-b1e3-4d97-85d4-182e51366c2a)
 
-*Abbildung: Backpropagation in einem neuronalen Netz – Quelle: GeeksforGeeks (2023*
+*Abbildung: Backpropagation in einem neuronalen Netz – Quelle: GeeksforGeeks (2023)*
 
 ---
 
