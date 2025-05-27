@@ -113,11 +113,10 @@ Maschinelles Lernen umfasst eine Vielzahl von Algorithmen, die jeweils auf unter
 
 Ein Entscheidungsbaum ist ein baumartiges Modell, das Entscheidungen durch das schrittweise Aufspalten von Merkmalen trifft. Jeder innere Knoten prüft ein Merkmal, jede Kante steht für eine mögliche Ausprägung, und jedes Blatt liefert eine Vorhersage (z. B. Klasse *A* oder *B*).
 
-![Entscheidungsbaum – Quelle: SpringerLink – Kless et al. (2021)]
 
 ![image](https://github.com/user-attachments/assets/5c8700bd-7d4f-4f54-9525-8f6f000a2249)
 
-*Abbildung 7: Beispieldarstellung für einen Entscheidungsbaum (Quelle: SpringerLink – Kless, D., et al. (2021). *
+*Abbildung 7: Beispieldarstellung für einen Entscheidungsbaum (Quelle: SpringerLink – Kless, D., et al. (2021).*
 
 **Beispiel:**  
 Ein Modell soll entscheiden, ob Sport im Freien stattfinden soll. Es prüft nacheinander die Merkmale wie „Wetterlage“, „Temperatur“ und „Regenwahrscheinlichkeit“ und trifft auf dieser Basis die Entscheidung „ja“ oder „nein“.
