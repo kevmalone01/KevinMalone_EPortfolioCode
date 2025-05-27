@@ -62,7 +62,7 @@ Je nach Merkmalsart kommen verschiedene **Distanzmaße** zum Einsatz, z. B.:
 
 ![image](https://github.com/user-attachments/assets/ed213297-7863-4fba-8890-98e3d633adff)
 
-*Abbildung: Funktionsweise des k-Means-Algorithmus*
+*Abbildung 9: Funktionsweise des k-Means-Algorithmus (Quelle: GeeksforGeeks – K-Means Clustering Introduction)*
 
 ---
 
