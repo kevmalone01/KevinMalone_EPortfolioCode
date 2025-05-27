@@ -38,7 +38,7 @@ Netze mit mehreren versteckten Schichten werden als **Mehrschicht-Perzeptrons (M
 
 ![image](https://github.com/user-attachments/assets/8d540b6c-2be0-49f7-bbd7-b2d951789290)
 
-*Feedforward-Netz mit 2 Hidden Layers – Quelle: ORDIX Blog, 2021*
+*Abbildung 11: Feedforward-Netz mit 2 Hidden Layers – Quelle: ORDIX Blog, 2021*
 
 
 **Erklärung:**  
@@ -212,7 +212,7 @@ Im Gegensatz zu vollständig verbundenen Netzen nutzen CNNs **Faltungsschichten 
 
 ![image](https://github.com/user-attachments/assets/5c88fbfa-d8b1-4841-8480-c0872d347367)
  
-*Abbildung: CNN-Aufbau von der Eingabe bis zur Klassifikation – Quelle: MathWorks*
+*Abbildung 12: CNN-Aufbau von der Eingabe bis zur Klassifikation – Quelle: MathWorks*
 
 **Ablauf eines CNNs:**
 
