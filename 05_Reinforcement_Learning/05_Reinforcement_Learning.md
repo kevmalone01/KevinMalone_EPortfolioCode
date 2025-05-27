@@ -9,7 +9,7 @@ Nach jeder Aktion erhält der Agent eine Rückmeldung (Reward) in Form von Beloh
 
 ![image](https://github.com/user-attachments/assets/11fa8f4b-bf7c-458a-a2f7-620d31529b92)
  
-*Abbildung: Grundprinzip des Reinforcement Learning - Quelle: DatabaseCamp*
+*Abbildung 10: Grundprinzip des Reinforcement Learning - Quelle: DatabaseCamp*
 
 **Ablauf:**
 1. Agent beobachtet Zustand \( s \)
