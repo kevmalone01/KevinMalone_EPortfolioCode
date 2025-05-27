@@ -6,6 +6,8 @@ Lernen ist ein grundlegender Bestandteil menschlicher Entwicklung – sei es dur
 
 ![image](https://github.com/user-attachments/assets/700759bd-b973-42c1-a831-eefef44c2ec4)
 
+*Abbildung 5 Übersicht Prozess des Maschinellen Lernens (Quelle: Datasolut, Machine Learning Deinition)*
+
 Maschinelles Lernen ist ein Teilgebiet der Künstlichen Intelligenz. Ziel ist es, aus vorhandenen Daten ein Modell zu erstellen, das Muster erkennt und neue, unbekannte Daten korrekt verarbeitet. Dabei werden Zusammenhänge, Strukturen oder Entscheidungsregeln gelernt und anschließend eigenständig angewendet.
 
 ### Überblick über die Lernarten:
@@ -90,7 +92,7 @@ Ziel ist es, im Fehlerraum das **globale Minimum** zu finden, also die Parameter
 
 ![image](https://github.com/user-attachments/assets/5fe1e851-0b72-44c0-a1c4-60955720f279)
 
-*Abbildung: Fehlerlandschaft – das Ziel ist das tiefste Tal (globales Minimum)*
+*Abbildung 6: Fehlerlandschaft – das Ziel ist das tiefste Tal (globales Minimum)*
 
 ### Was bedeutet das in der Praxis?
 
@@ -115,7 +117,7 @@ Ein Entscheidungsbaum ist ein baumartiges Modell, das Entscheidungen durch das s
 
 ![image](https://github.com/user-attachments/assets/5c8700bd-7d4f-4f54-9525-8f6f000a2249)
 
-*Beispielhafte Darstellung eines Entscheidungsbaums*
+*Abbildung 7: Beispieldarstellung für einen Entscheidungsbaum (Quelle: SpringerLink – Kless, D., et al. (2021). *
 
 **Beispiel:**  
 Ein Modell soll entscheiden, ob Sport im Freien stattfinden soll. Es prüft nacheinander die Merkmale wie „Wetterlage“, „Temperatur“ und „Regenwahrscheinlichkeit“ und trifft auf dieser Basis die Entscheidung „ja“ oder „nein“.
@@ -171,7 +173,7 @@ SVMs versuchen, zwei Klassen durch eine optimale Trennlinie (Hyperplane) zu unte
 ![image](https://github.com/user-attachments/assets/ab69280d-def9-4067-8d6e-b3b56e9a44a5)
 
 
-*Trennung zweier Klassen durch eine SVM*
+*Abbildung 8: Trennung zweier Klassen durch eine Support Vector Machine (Quelle: DatabaseCamp – Support Vector Machine (SVM) einfach erklärt)*
 
 **Beispiel:**  
 Ein SVM-Modell wird mit echten und betrügerischen Banktransaktionen trainiert. Die Methode lernt eine Grenze, die beide Klassen im Merkmalsraum möglichst gut trennt.
