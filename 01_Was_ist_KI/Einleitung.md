@@ -1,4 +1,4 @@
-# 1. Einführung in die Künstliche Intelligenz 🤖
+# 1. Einführung in die Künstliche Intelligenz 
 
 Spätestens seit der Veröffentlichung von **ChatGPT im Jahr 2022** ist der Begriff *Künstliche Intelligenz (KI)* stark in den Fokus gerückt. In Medien, Unternehmen und Bildungseinrichtungen wird KI heute als Schlüsseltechnologie diskutiert, die Wirtschaft, Gesundheitswesen und Alltag nachhaltig verändern kann.
 
@@ -20,13 +20,13 @@ Künstliche Intelligenz?
 
 ### Definitionen:
 
-> 🧠 **John McCarthy** (1956):
+>  **John McCarthy** (1956):
 > "Die Wissenschaft und Technik, intelligente Maschinen zu bauen, insbesondere intelligente Computerprogramme."
 
-> 📘 **Patrick Winston** (1992):
+>  **Patrick Winston** (1992):
 > "KI ist die Untersuchung von Berechnungsverfahren, die es ermöglichen, wahrzunehmen, zu denken und zu handeln."
 
-> 🌐 **Wikipedia (2025)**:
+>  **Wikipedia (2025)**:
 > "KI ist ein Teilgebiet der Informatik, das sich mit der Automatisierung intelligenten Verhaltens und dem maschinellen Lernen befasst."
 
 ### Merkmale:
@@ -63,9 +63,9 @@ Ein weiterer theoretischer Schritt über AGI hinaus ist die Superintelligenz –
 
 | Typ                                         | Beschreibung                                                                      | Stand           |
 | ------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
-| **ANI** (*Artificial Narrow Intelligence*)  | Spezialisiert auf eine Aufgabe (z. B. Spracherkennung, Bilderkennung, Chatbots)   | ✅ Realität      |
-| **AGI** (*Artificial General Intelligence*) | Allgemeine Intelligenz wie beim Menschen, kann flexibel in neuen Kontexten lernen | 🔬 Hypothetisch |
-| **ASI** (*Artificial Super Intelligence*)   | Übermenschliche Intelligenz, überlegen in allen kognitiven Bereichen              | ⚠️ Spekulativ   |
+| **ANI** (*Artificial Narrow Intelligence*)  | Spezialisiert auf eine Aufgabe (z. B. Spracherkennung, Bilderkennung, Chatbots)   |  Realität      |
+| **AGI** (*Artificial General Intelligence*) | Allgemeine Intelligenz wie beim Menschen, kann flexibel in neuen Kontexten lernen |  Hypothetisch |
+| **ASI** (*Artificial Super Intelligence*)   | Übermenschliche Intelligenz, überlegen in allen kognitiven Bereichen              |  Spekulativ   |
 
 ---
 
@@ -84,7 +84,7 @@ GPT steht für „Generative Pretrained Transformer“. Das Modell lernt, Sprach
 
 ## 1.4 Der Turing-Test
 
-🧪 **Alan Turing** stellte 1950 die berühmte Frage: *„Can machines think?“*. Zur Beantwortung schlug er den **Turing-Test** vor:
+ **Alan Turing** stellte 1950 die berühmte Frage: *„Can machines think?“*. Zur Beantwortung schlug er den **Turing-Test** vor:
 
 Ein Mensch kommuniziert über ein Terminal mit zwei Gesprächspartnern – einem Menschen und einer Maschine. Kann der Mensch nicht zuverlässig sagen, wer die Maschine ist, gilt der Test als bestanden.
 
@@ -101,7 +101,7 @@ Zwar war der Turing-Test ein **bahnbrechendes Konzept**, doch moderne Modelle wi
 
 ---
 
-## 🔍 Quellen
+##  Quellen
 
 * McCarthy, J. (1956): *Proposal for the Dartmouth Summer Research Project on AI*
 * Winston, P. (1992): *Artificial Intelligence*, Addison-Wesley
