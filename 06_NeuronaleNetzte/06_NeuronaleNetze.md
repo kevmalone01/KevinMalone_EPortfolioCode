@@ -180,19 +180,19 @@ Während einfache Feedforward-Netze meist nur eine oder zwei versteckte Schichte
 
 DNNs kommen in vielen Bereichen zum Einsatz:
 
-- 🗣 **Sprachverarbeitung**  
+-  **Sprachverarbeitung**  
   *Beispiele:* Google Translate, ChatGPT, Alexa
 
-- 🩺 **Medizinische Bildanalyse**  
+-  **Medizinische Bildanalyse**  
   *Beispiel:* Erkennung von Tumoren oder Anomalien in Röntgenbildern
 
-- 💳 **Finanzwesen**  
+-  **Finanzwesen**  
   *Beispiel:* Betrugserkennung bei Kreditkartentransaktionen
 
-- 🚗 **Autonomes Fahren**  
+-  **Autonomes Fahren**  
   *Beispiel:* Bilderkennung, Objekterkennung, Sensorfusion
 
-- 📷 **Bild- und Objekterkennung**  
+-  **Bild- und Objekterkennung**  
   *Beispiel:* Klassifikation in der Industrie, Sicherheitsanwendungen
 
 
@@ -246,11 +246,11 @@ Die CNN-Architektur lässt sich in zwei Hauptphasen gliedern:
 
 ### Typische Einsatzgebiete
 
-- 📸 Bildklassifikation (z. B. ImageNet)
-- 🔍 Objekterkennung (z. B. YOLO, Faster R-CNN)
-- 🧠 Medizinische Bilddiagnostik (z. B. Tumorerkennung)
-- 🚗 Autonomes Fahren (z. B. Verkehrsschilderkennung)
-- 📹 Videoanalyse & Gesichtserkennung
+- Bildklassifikation (z. B. ImageNet)
+- Objekterkennung (z. B. YOLO, Faster R-CNN)
+- Medizinische Bilddiagnostik (z. B. Tumorerkennung)
+- Autonomes Fahren (z. B. Verkehrsschilderkennung)
+- Videoanalyse & Gesichtserkennung
 
 ---
 
