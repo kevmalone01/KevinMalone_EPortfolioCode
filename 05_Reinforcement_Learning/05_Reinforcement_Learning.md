@@ -37,10 +37,10 @@ Ein grundlegender Algorithmus im RL ist das **Q-Learning**. Dabei wird eine soge
 
 ### Beispiele:
 
-#### 🐭 Maus im Labyrinth
+####  Maus im Labyrinth
 Eine Maus lernt über viele Versuche, wo sich Käse (+1) und Fallen (–1) befinden. Die Q-Werte helfen ihr, sich künftig für den besten Weg zu entscheiden.
 
-#### 🤖 Roboter im Raum
+####  Roboter im Raum
 Ein Roboter erhält Belohnung nur im Zielraum F. Mithilfe von Q-Learning lernt er, welchen Pfad er bevorzugen sollte – den mit dem höchsten erwarteten Q-Wert.
 
 ---
@@ -61,11 +61,11 @@ Vorteile:
 
 ## Nützliche Tools und Ressourcen
 
-- 🧪 **OpenAI Gym:** Simulationsumgebung für RL-Experimente  
+-  **OpenAI Gym:** Simulationsumgebung für RL-Experimente  
   → https://gym.openai.com/  
-- 🧠 **MushroomRL:** Python-Bibliothek mit vielen RL-Algorithmen  
+-  **MushroomRL:** Python-Bibliothek mit vielen RL-Algorithmen  
   → https://mushroomrl.readthedocs.io/en/latest/  
-- 🎥 **YouTube-Tutorialreihe (deutsch):**  
+-  **YouTube-Tutorialreihe (deutsch):**  
   [Teil 1](https://www.youtube.com/watch?v=pc-H4vyg2L4) – [Teil 2](https://www.youtube.com/watch?v=0ODB_DvMiDI) – [Teil 3](https://www.youtube.com/watch?v=7cF3VzP5EDI) – [Teil 4](https://www.youtube.com/watch?v=Wypc1a-1ZYA)
 
 ---
