@@ -1,4 +1,4 @@
-# 2. Problemlösen als Suchaufgabe 🔍
+# 2. Problemlösen als Suchaufgabe 
 
 Viele Aufgabenstellungen in der Künstlichen Intelligenz lassen sich als **Suchprobleme** modellieren. Dabei geht es nicht darum, eine Lösung direkt zu berechnen, sondern sie durch das systematische **Durchsuchen eines Zustandsraums** zu finden. Dieses Vorgehen ist besonders relevant für Pfadplanung, Spielstrategien oder Entscheidungsfindung in komplexen Umgebungen.
 
@@ -53,7 +53,7 @@ Wenn keine Karte vorhanden ist, kommt z. B. ein Bug-Algorithmus zum Einsatz:
 
 *Abbildung 4 Veranschaulichung des Bug-Algorithmus in Aktion (Quelle: ResearchGate-Trajectory of dist-bug algorithm)*
 
-> 🔎 **Beispiel (siehe Abbildung 4)**: 
+>  **Beispiel (siehe Abbildung 4)**: 
 Ein mobiler Agent (z. B. ein Roboter) bewegt sich zunächst geradlinig auf das Ziel zu (gestrichelte Linie). Nach Kollision mit einem Hindernis folgt er dessen Rand (rote Trajektorie), bis er wieder in Richtung Ziel navigieren kann.
 
 
@@ -92,7 +92,7 @@ grid = [
 ]
 ```
 
-> 🔹 Ausgabe: (0,0) ➔ (0,1) ➔ (0,2) ➔ (1,2) ➔ … ➔ (4,4)
+>  Ausgabe: (0,0) ➔ (0,1) ➔ (0,2) ➔ (1,2) ➔ … ➔ (4,4)
 
 ### Bewertungskriterien für Suchverfahren
 
@@ -132,7 +132,7 @@ Anstelle vollständiger Berechnung simuliert MCTS viele **zufällige Spielverlä
 Suchprobleme sind ein zentrales Konzept der KI. Ob Navigation oder Spielstrategie: Durch intelligente Auswahl und Bewertung von Pfaden können auch in großen Räumen effiziente Entscheidungen getroffen werden. Heuristiken, Pruning und Simulation sind dabei entscheidende Werkzeuge.
 
 ---
-## 🔎 Quellen
+##  Quellen
 
 * Russell & Norvig (2021): Artificial Intelligence: A Modern Approach. 4th ed., Pearson.
 
