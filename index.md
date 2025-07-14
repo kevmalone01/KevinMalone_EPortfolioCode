@@ -21,8 +21,8 @@ Im Folgenden sind die behandelten Themengebiete übersichtlich aufgeführt. Jede
 - [Problemlösung](02_Problemlösung/02_Problemlösung.md)
 
 **Codebeispiele:**
-- [A-Stern algorithm](02_Problemlösung/aSTERN_algorithm.py)
-- [A-Sterm visualization](02_Problemlösung/astar_visualization.py)
+- [A-Stern Algorithmus](02_Problemlösung/aSTERN_algorithm.py)
+- [A-Sterm Visualisierung](02_Problemlösung/astar_visualization.py)
 - [TicTacToe](02_Problemlösung/tictactoe.py)
 
 ---
