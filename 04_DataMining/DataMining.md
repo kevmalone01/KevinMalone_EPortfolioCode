@@ -1,3 +1,6 @@
+# 4. Data Mining
+---
+
 # 4.1 Unüberwachtes Lernen: Clustering und Strukturerkennung
 
 Unüberwachtes Lernen – insbesondere Clustering – gehört zu den zentralen Aufgaben des Data Mining. Ziel ist es, unbekannte Muster, Gruppen oder Strukturen in großen Datenmengen zu erkennen – ohne dass Zielwerte oder Klassen vorgegeben sind. Das Vorgehen ist explorativ.
